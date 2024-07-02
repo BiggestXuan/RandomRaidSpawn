@@ -1,0 +1,6 @@
+{
+  "item.randomraid.raid_rod": "袭击棒",
+
+  "message.raid.no_raid": "§4这个物品只能在袭击的时候使用！",
+  "message.raid.pos": "§2袭击者：%d§2,X：%d§2,Y：%d§2,Z：%d"
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "biggestxuan.randomraid.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "randomraid.refmap.json",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8",
+  "mixins": [
+    "RaidMixin"
+  ],
+  "client": [
+
+  ]
+}

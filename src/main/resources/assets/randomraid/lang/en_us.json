@@ -1,0 +1,6 @@
+{
+  "item.randomraid.raid_rod": "Raid Rod",
+
+  "message.raid.no_raid": "§4This item is only available during a raid!",
+  "message.raid.pos": "Name:%d,X:%d,Y:%d,Z:%d"
+}
